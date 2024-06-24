@@ -1,0 +1,90 @@
+name: Habits Tracker
+version: 1
+author: thomas.gervais@gmail.com
+title: 
+    fr: Mise en place d'une habitude 
+    en: Setting up a habit
+    it: Creazione di un'abitudine
+    es: Establecimiento de un hábito
+
+description: 
+      fr: >
+        Suivre et enregistrer les habitudes d'une personne sur une période de temps donnée. 
+        Utilisé pour aider à développer de bonnes habitudes, à briser de mauvaises habitudes ou simplement pour suivre les habitudes quotidiennes.    
+      en: > 
+        Follow and record a person's habits over a given period of time. 
+        Used to help develop good habits, break bad habits, or simply track daily habits.
+      it: >
+        Seguire e registrare le abitudini di una persona per un determinato periodo di tempo. 
+        Utilizzato per aiutare a sviluppare buone abitudini, rompere le cattive abitudini o semplicemente tenere traccia delle abitudini quotidiane.
+      es: >
+        Seguir y registrar los hábitos de una persona durante un período de tiempo determinado. 
+        Se utiliza para ayudar a desarrollar buenos hábitos, romper malos hábitos o simplemente hacer un seguimiento de los hábitos diarios.
+
+image_url: https://i.pinimg.com/1200x/5e/92/67/5e9267643c84f6b91463b6e335617288.jpg
+    
+goals:
+    category: 
+      title : 
+        fr: Choisissez une categorie
+        en: Choose a category
+        it: Scegli una categoria
+        es: Elige una categoría
+    
+    evaluate:
+      title:
+        fr: Comment voulez vous evaluer vos progrès ?
+        en: How do you want to evaluate your progress?
+        it: Come vuoi valutare i tuoi progressi?
+        es: ¿Cómo quieres evaluar tu progreso?
+
+    define:
+      title:
+        fr: Définissez votre habitude
+        en: Define your habit
+        it: Definisci la tua abitudine
+        es: Define tu hábito
+
+    frequency:
+      title:
+        fr: Quelle est la fréquence de votre habitude ?
+        en: What is the frequency of your habit?
+        it: Qual è la frequenza della tua abitudine?
+        es: ¿Cuál es la frecuencia de tu hábito?
+
+    duration:
+      title:
+        fr: Quand voulez vous suivre votre habitude ?
+        en: When do you want to follow your habit?
+        it: Quando vuoi seguire la tua abitudine?
+        es: ¿Cuándo quieres seguir tu hábito?
+
+    habit:
+      title:
+        fr: Quelle est votre habitude ?
+        en: What is your habit?
+        it: Qual è la tua abitudine?
+        es: ¿Cuál es tu hábito?
+
+    track:
+      title:
+        fr: Suivez votre habitude
+        en: Track your habit
+        it: Traccia la tua abitudine
+        es: Rastrea tu hábito
+
+    conclude:
+      title:
+        fr: Fin du suivi
+        en: End of tracking
+        it: Fine del tracciamento
+        es: Fin del seguimiento
+
+      
+
+
+
+       
+
+
+  

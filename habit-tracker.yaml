@@ -1,0 +1,130 @@
+name: HabitTracker
+id: f8b2c8c3-6c7e-4d3d-9d6d-4b7d6d4c5c5e
+version: 1.0.0
+author: thomas.gervais@gmail.com
+title: 
+    en: Habit Tracker
+    fr: Tracker d'habitude
+description: 
+    en: This is an habit tracker 
+    fr: Ceci est un tracker d'habitude
+image_url: https://squeezegrowth.com/wp-content/uploads/2022/06/ID-2040-223-Best-Habit-Tracker-Apps.png
+goals:
+    - name: Goal1
+      title: 
+        en: Goal 1
+        fr: Objectif 1
+      description: 
+        en: This is the description of the goal 1
+        fr: Ceci est la description de l'objectif 1
+      type: habit
+      frequency: daily
+      count: 1
+      points: 10
+      tags: [tag1, tag2]
+      image_url: https://example.com/image.jpg
+      color: '#000000'
+      icon: 'fas fa-star'
+      start_date: 2020-01-01
+      end_date: 2020-12-31
+      start_time: 08:00
+      end_time: 09:00
+      days:
+        - monday
+        - tuesday
+        - wednesday
+        - thursday
+        - friday
+        - saturday
+        - sunday
+      reminders:
+        - time: 08:00
+          message: 
+            en: This is the reminder message
+            fr: Ceci est le message de rappel
+            it: Questo è il messaggio di promemoria
+            es: Este es el mensaje de recordatorio
+        - time: 12:00
+          message: 
+            en: This is the reminder message
+            fr: Ceci est le message de rappel
+            it: Questo è il messaggio di promemoria
+            es: Este es el mensaje de recordatorio
+      notifications:
+        - time: 08:00
+          message: 
+            en: This is the notification message
+            fr: Ceci est le message de notification
+            it: Questo è il messaggio di notifica
+            es: Este es el mensaje de notificación
+        - time: 12:00
+          message: 
+            en: This is the notification message
+            fr: Ceci est le message de notification
+            it: Questo è il messaggio di notifica
+            es: Este es el mensaje de notificación
+      rewards:
+        - name: Reward 1
+          description: 
+            en: This is the description of the reward 1
+            fr: Ceci est la description de la récompense 1
+            it: Questa è la descrizione della ricompensa 1
+    - name: Goal 2
+      title: 
+        en: Goal 2
+        fr: Objectif 2
+      description: 
+        en: This is the description of the goal 2
+        fr: Ceci est la description de l'objectif 2
+      type: habit
+      frequency: daily
+      count: 1
+      points: 10
+      tags: [tag1, tag2]
+      image_url: https://example.com/image.jpg
+      color: '#000000'
+      icon: 'fas fa-star'
+      start_date: 2020-01-01
+      end_date: 2020-12-31
+      start_time: 08:00
+      end_time: 09:00
+      days:
+        - monday
+        - tuesday
+        - wednesday
+        - thursday
+        - friday
+        - saturday
+        - sunday
+      reminders:
+        - time: 08:00
+          message: 
+            en: This is the reminder message
+            fr: Ceci est le message de rappel
+            it: Questo è il messaggio di promemoria
+            es: Este es el mensaje de recordatorio
+        - time: 12:00
+          message: 
+            en: This is the reminder message
+            fr: Ceci est le message de rappel
+            it: Questo è il messaggio di promemoria
+            es: Este es el mensaje de recordatorio
+      notifications:
+        - time: 08:00
+          message: 
+            en: This is the notification message
+            fr: Ceci est le message de notification
+            it: Questo è il messaggio di notifica
+            es: Este es el mensaje de notificación
+        - time: 12:00
+          message: 
+            en: This is the notification message
+            fr: Ceci est le message de notification
+            it: Questo è il messaggio di notifica
+            es: Este es el mensaje de notificación
+      rewards:
+        - name: Reward 1
+          description: 
+            en: This is the description of the reward 1
+            fr: Ceci est la description de la récompense 1
+            it: Questa è la descrizione della ricompensa 1

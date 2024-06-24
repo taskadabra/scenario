@@ -1,0 +1,74 @@
+name: roti
+version: 1
+author: thomas.gervais@gmail.com
+title: 
+    fr: Questionaire ROTI
+    en: ROTI Questionaire
+    it: Questionario ROTI
+    es: Cuestionario ROTI
+
+description:
+    fr: >
+      Récolter le feedback de chaque participant en temps réel et mesurer l’utilité et
+      l’efficacité de la réunion, dans l’objectif d’améliorer les prochaines.
+    en: > 
+      Collect the feedback of each participant in real time and measure the usefulness and
+      effectiveness of the meeting, with the aim of improving the next ones.
+    it: >
+      Raccogliere il feedback di ogni partecipante in tempo reale e misurare l'utilità e
+      l'efficacia della riunione, con l'obiettivo di migliorare le prossime.
+    es: >
+      Recopilar la retroalimentación de cada participante en tiempo real y medir la utilidad y
+      eficacia de la reunión, con el objetivo de mejorar las próximas.
+
+image_url: https://t2informatik.de/en/wp-content/uploads/sites/2/2020/08/roti-feedback.jpg
+    
+goals:
+  rank:
+    title : 
+        fr: Classement
+        en: Ranking
+        it: Classifica
+        es: Clasificación
+    description: 
+        fr: >
+          Avez-vous bien investi votre temps dans cette réunion ? 
+        en: >
+          Did you invest your time well in this meeting?
+        it: >
+          Hai investito bene il tuo tempo in questa riunione?
+        es: >
+          ¿Invertiste bien tu tiempo en esta reunión?
+
+  perfection:
+    title : 
+        fr: Perfection Game
+        en: Perfection Game
+        it: Perfezione del gioco
+        es: Juego de la perfección
+    description:
+        fr: >
+          Que puis je faire pour aumenter la note de cette réunion d'un point ?
+        en: > 
+          What can I do to increase the score of this meeting by one point? 
+        it: >
+          Cosa posso fare per aumentare il punteggio di questa riunione di un punto?
+        es: >
+          ¿Qué puedo hacer para aumentar la puntuación de esta reunión en un punto?
+
+  comments:
+    title : 
+        fr: Commentaires
+        en: Comments
+        it: Commenti
+        es: Comentarios
+    description: 
+        fr: >
+          Avez-vous des commentaires à faire sur cette réunion ?
+        en: >
+          Do you have any comments to make about this meeting?
+        it: >
+          Hai qualche commento da fare su questa riunione?
+        es: >
+          ¿Tienes algún comentario que hacer sobre esta reunión?
+      

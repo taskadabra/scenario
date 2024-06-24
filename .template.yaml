@@ -1,0 +1,37 @@
+name: GenericStory
+id: 00000000-0000-0000-0000-000000000000
+version: 1.0.0
+author: thomas.gervais@gmail.com
+title:
+    en: Generic Story
+    fr: Histoire générique
+    it: Storia generica
+    es: Historia genérica
+description: 
+    en: This is a generic story
+    fr: Ceci est une histoire générique
+    it: Questa è una storia generica
+    es: Esta es una historia genérica
+image_url: https://media2.ledevoir.com/images_galerie/nwd_765663_601327/image.jpg
+goals:
+    - neme: Chapter1
+      title: 
+        en: Chapter 1
+        fr: Chapitre 1
+        it: Capitolo 1
+        es: Capítulo 1
+      description: 
+        en: This is the description of the chapter 1
+        fr: Ceci est la description du chapitre 1
+        it: Questa è la descrizione del capitolo 1
+        es: Esta es la descripción del capítulo 1
+      tags: [tag1, tag2]
+      rewards:
+        - name: Reward 1
+          badge: targetBadgeA
+          points: 10
+        - name: Reward 2
+          badge: targetBadgeB
+          points: 5
+
+    
